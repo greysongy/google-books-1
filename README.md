@@ -6,7 +6,7 @@
 
 ## Try it Out 
 
-![](images/finfoRDM.png)
+![](images/GoogleBooksPic.png)
 
 [Deployed Site](https://radiant-dusk-77407.herokuapp.com/)
 
