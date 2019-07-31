@@ -6,11 +6,7 @@
 
 ## Try it Out 
 
-<<<<<<< HEAD
 ![](GoogleBooksPic.png)
-=======
-![](images/GoogleBooksPic.png)
->>>>>>> a20f0502361a6afd7bc24865305af9224d9ab06d
 
 [Deployed Site](https://radiant-dusk-77407.herokuapp.com/)
 
