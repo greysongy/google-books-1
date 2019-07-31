@@ -4,4 +4,22 @@
 
 [Christopher Celestino](https://www.linkedin.com/in/christopher-celestino/)
 
+## Try it Out 
 
+![](images/finfoRDM.png)
+
+[Deployed Site](https://radiant-dusk-77407.herokuapp.com/)
+
+## Technologies Used 
+
+React 
+
+Google Books API
+
+Express 
+
+MongoDB
+
+Mongoose
+
+React-Router
